@@ -121,6 +121,5 @@ for (let i = 0; i < modal.length; i++) {
         modalContent.classList.add("mostrar")
         iphones.setAttribute('src', 'assets/img/apple/11pro.png');
         modelosCell.innerHTML = modelos[2]
-
     }
 }
