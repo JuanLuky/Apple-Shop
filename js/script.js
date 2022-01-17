@@ -2,7 +2,7 @@ const modal = document.querySelectorAll('.card-apple');
 const span = document.getElementsByClassName("close")[0];
 const modalFundo = document.getElementById("myModal");
 const modalContent = document.querySelector('.modal-content');
-const iphones = document.querySelector('.iphoness');
+const iphones = document.querySelector('.iphone-modal');
 const modelosCell = document.querySelector('.modelos')
 
 const modelos = ['iPhone 11', 'iPhone 11 Pro', 'iPhone 11 Pro Max','iPhone 12','iPhone 12 Pro','iPhone 12 Pro Max','iPhone 13 Mini','iPhone 13 Pro','iPhone 13 Pro Max'];

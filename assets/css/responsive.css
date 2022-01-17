@@ -2,4 +2,19 @@
     html {
         font-size:55%;
     }
+    .card-imgs-modal .iphone-modal {
+        width: 200px;
+    }
+    .banner-principal {
+        background: linear-gradient(#122239f5,#122239be),url(../img/apple/fund.png);
+        background-position: right;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+}
+@media (max-width: 400px) {
+    html {
+        font-size:50%;
+    }
 }
