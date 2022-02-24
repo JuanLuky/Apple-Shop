@@ -17,7 +17,6 @@ modalFundo.onclick = function(event) {
   }
 }
 
-
 for (let i = 0; i < modal.length; i++) {
     modal[5].onclick = () => {
         modalFundo.style.display = "flex";
